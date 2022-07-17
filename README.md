@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sauceuke
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning java, kotlin, react native, and swift
-- 💞️ I’m looking to collaborate on a gaming app (eventually)
+- 👀 I’m interested in web & app development 
+- 🌱 I’m currently learning HTML, CSS & JS
+- 💞️ I’m looking to build webpages and eventually become a web developer, full-stack dev and dApp developer!
 - 📫 How to reach me moore.data.analyst@gmail.com
 
 <!---
