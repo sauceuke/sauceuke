@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sauceuke
-- 👀 I’m interested in web & app development 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning HTML, CSS & JS
-- 💞️ I’m looking to build webpages and eventually become a front end or full-stack web developer, and (maybe) also a dApp developer!
+- 💞️ I’m looking to build webpages and eventually become a front end or full-stack web3 developer.
 - 📫 How to reach me moore.data.analyst@gmail.com
 
 <!---
