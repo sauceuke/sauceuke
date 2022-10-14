@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sauceuke
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Angular, Solidity & everything front-end and blockchain
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, Angular, React, Solidity & everything front-end and blockchain
 - 💞️ I’m looking to build responsive webpages and eventually become a front end or full-stack web3 developer.
 - 📫 How to reach me moore.data.analyst@gmail.com
 
