@@ -7,7 +7,8 @@
 
 <h3>specializing in front-end, blockchain & 3d technologies.</h3>
 --------------------------------------------------------
-**Projects:**
+
+**Projects**:
 
 [Amazon Dupe](https://sauceuke.github.io/puny/) - simple frontend Amazon dupe
 
