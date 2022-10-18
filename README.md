@@ -7,6 +7,10 @@
 
 <h3>specializing in front-end, blockchain & 3d technologies.</h3>
 
+Projects:
+
+[Amazon Dupe](https://sauceuke.github.io/puny/)
+
 - 💞️ I’m looking to build responsive webpages/apps and eventually become a frontend/full-stack web3 developer.
 - 📫 How to reach me moore.data.analyst@gmail.com
 
