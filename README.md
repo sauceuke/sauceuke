@@ -5,7 +5,7 @@
 **HTML** , **CSS** , **JavaScript** , **TypeScript** , **Angular** , **React** , **Vue** , **Solidity**
 ------------------------------------------------------------------------------------------------------
 
-<h2>specializing in front-end, blockchain & **3d technologies.**</h2>
+<h2>specializing in front-end, blockchain & 3d technologies.</h2>
 
 - 💞️ I’m looking to build responsive webpages and eventually become a frontend/full-stack web3 developer.
 - 📫 How to reach me moore.data.analyst@gmail.com
