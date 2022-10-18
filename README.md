@@ -4,14 +4,14 @@
 
 
 ---------------------
-|**HTML|
-|CSS | 
-|JavaScript| 
-|TypeScript| 
-|Angular| 
-|React  |
-|Vue    | 
-|Solidity|
+**HTML**
+**CSS**  
+**JavaScript**
+**TypeScript** 
+**Angular** 
+**React** 
+**Vue**
+**Solidity**
 
 specializing in front-end, blockchain & **3d technologies.**
 
