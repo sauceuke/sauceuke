@@ -12,7 +12,7 @@
 
 [Amazon Dupe](https://sauceuke.github.io/puny/) - simple frontend Amazon dupe
 
-- 💞️ I’m looking to build responsive webpages/apps and eventually become a frontend/full-stack web3 developer.
+- 💞️ I’m looking to build responsive webpages/apps and eventually become a fullstack or ui engineer for MAANG or a web3 dev for a startup!
 - 📫 How to reach me moore.data.analyst@gmail.com
 
 <!---
