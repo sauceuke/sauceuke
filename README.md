@@ -12,7 +12,7 @@
 
 [Amazon Dupe](https://sauceuke.github.io/puny/) - simple frontend Amazon dupe
 
-- 💞️ I’m looking to build responsive webpages and eventually become a fullstack engineer for Netflix or a web3 dev for a startup!
+- 💞️ I’m looking to build responsive webpages and eventually become a fullstack/front end software engineer for Netflix, another web-based company or a web3 dev for a startup!
 - 📫 How to reach me moore.data.analyst@gmail.com
 
 <!---
