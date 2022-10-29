@@ -5,14 +5,14 @@
 **HTML** , **CSS** , **JavaScript** , **TypeScript** , **Angular** , **React** , **Vue** , **Solidity**
 ----------------------------------------------------------------------------------------------------
 
-<h3>specializing in front-end, blockchain & 3d technologies.</h3>
+<h3>specializing in front-end, blockchain & web3 technologies.</h3>
 --------------------------------------------------------
 
 **Projects**:
 
 [Amazon Dupe](https://sauceuke.github.io/puny/) - simple frontend Amazon dupe
 
-- 💞️ I’m looking to build responsive webpages and eventually become a fullstack/front end software engineer for Netflix, another web-based company or a web3 dev for a startup!
+- 💞️ I’m looking to build responsive webpages and eventually become a fullstack/front end software engineer for Netflix, a dev for Meta, another web-based company or a web3 dev for a startup!
 - 📫 How to reach me moore.data.analyst@gmail.com
 
 <!---
