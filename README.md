@@ -5,7 +5,7 @@
 **HTML/CSS** , **JavaScript** , **TypeScript** , **Angular** , **React** , **Vue** , **Solidity**
 ----------------------------------------------------------------------------------------------------
 
-<h3>specializing in front-end, blockchain & web3 technologies.</h3>
+<h3>specializing in front-end & blockchain </h3>
 --------------------------------------------------------
 
 **Projects**:
