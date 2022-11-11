@@ -5,14 +5,14 @@
 **HTML/CSS** , **JavaScript** , **TypeScript** , **Angular** , **React** , **Vue** , **Solidity**
 ----------------------------------------------------------------------------------------------------
 
-<h3>specializing in front-end & blockchain </h3>
+<h3>specializing in front-end/full stack & blockchain </h3>
 --------------------------------------------------------
 
 **Projects**:
 
 [Amazon Dupe](https://sauceuke.github.io/puny/) - simple frontend Amazon dupe
 
-- 💞️ I’m looking to build responsive webpages and eventually become a front end software engineer or blockchain developer. 
+- 💞️ I’m looking to build responsive webpages and eventually become a front end/full stack software engineer/w3 developer. 
 - 📫 How to reach me moore.data.analyst@gmail.com
 
 <!---
