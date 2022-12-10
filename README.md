@@ -1,12 +1,17 @@
 - 👋 Hi, I’m @sauceuke
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently training as a:
 
-**HTML/CSS** , **JavaScript** , **TypeScript** , **Angular** , **React** , **Vue** , **Solidity**
+<h3> Full Stack Web Three Dev </h3> 
 ----------------------------------------------------------------------------------------------------
 
-<h3>specializing in front-end/full stack & blockchain </h3>
+specializing in front-end using: **HTML/CSS** , **JavaScript** , **TypeScript**
+
 --------------------------------------------------------
+
+Learning frontend frameworks: **Angular** , **React** , **Vue**
+Learning to write smart contracts using: **Solidity**
+Learning additional languages: **Python** & **C++** for AI dev
 
 **Projects**:
 
