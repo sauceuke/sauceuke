@@ -16,7 +16,7 @@ Learning frontend frameworks: **Angular** , **React** , **Vue**
 
 --------------------------------------------------------
 
-Learning to write smart contracts using: **Solidity**
+Learning to write smart contracts using: **Solidity** https://remix.ethereum.org
 
 --------------------------------------------------------
 
