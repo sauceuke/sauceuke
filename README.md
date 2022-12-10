@@ -41,7 +41,7 @@ contract MyContract {
 
 --------------------------------------------------------
 
-Learning additional languages: **Python** & **C++** for AI dev
+Learning additional languages: **Python** & **C++** for blockchain & AI dev
 
 --------------------------------------------------------
 
