@@ -3,7 +3,8 @@
 - 🌱 I’m currently training as a:
 
 <h3> Full Stack Web Three Dev </h3> 
-----------------------------------------------------------------------------------------------------
+
+========================================================
 
 specializing in front-end using: **HTML/CSS** , **JavaScript** , **TypeScript**
 
