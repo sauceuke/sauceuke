@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sauceuke
-- 👀 I’m interested in web development 
+- 👀 I’m interested in software development 
 - 🌱 I’m currently training as a:
 
 <h3> Full Stack Web Three Dev </h3> 
 
-========================================================
+--------------------------------------------------------
 
 specializing in front-end using: **HTML/CSS** , **JavaScript** , **TypeScript**
 
@@ -25,7 +25,7 @@ Learning additional languages: **Python** & **C++** for AI dev
 
 [Amazon Dupe](https://sauceuke.github.io/puny/) - simple frontend Amazon dupe
 
-- 💞️ I’m looking to build responsive webpages and eventually become a front end/full stack software engineer/w3 developer. 
+- 💞️ I’m looking to build responsive webpages (primarily) & eventually become a front end/full stack software engineer. 
 - 📫 How to reach me moore.data.analyst@gmail.com
 
 <!---
