@@ -18,6 +18,27 @@ Learning frontend frameworks: **Angular** , **React** , **Vue**
 
 Learning to write smart contracts using: **Solidity** https://remix.ethereum.org
 
+~~~
+pragma solidity ^(version);
+
+contract MyContract {
+  string value;
+  
+  constructor() public {
+    value = "myValue";
+  }
+  
+  function get() public view returns(string) {
+    return value;
+  }
+  
+  function set(string _value) public {
+    value = _value;
+  }
+}
+
+~~~
+
 --------------------------------------------------------
 
 Learning additional languages: **Python** & **C++** for AI dev
