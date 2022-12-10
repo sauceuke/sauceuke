@@ -10,8 +10,15 @@ specializing in front-end using: **HTML/CSS** , **JavaScript** , **TypeScript**
 --------------------------------------------------------
 
 Learning frontend frameworks: **Angular** , **React** , **Vue**
+
+~~~~~
 Learning to write smart contracts using: **Solidity**
+
+~~~~~
+
 Learning additional languages: **Python** & **C++** for AI dev
+
+~~~~~
 
 **Projects**:
 
