@@ -41,13 +41,6 @@ contract MyContract {
 
 --------------------------------------------------------
 
-Learning additional language: 
-
-**Python** for web dev, blockchain, AI & Machine Learning
-
-
---------------------------------------------------------
-
 **Projects**:
 
 [Amazon Dupe](https://sauceuke.github.io/puny/) - simple frontend Amazon dupe
