@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently training as a:
 
-<h3> Full Stack Web Three Dev </h3> 
+<h3> Front End Web Three Dev </h3> 
 
 --------------------------------------------------------
 
