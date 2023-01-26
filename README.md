@@ -14,36 +14,14 @@ Learning frontend frameworks: **Angular** , **React** , **Vue**
 
 --------------------------------------------------------
 
-Learning to write smart contracts using: **Solidity** https://remix.ethereum.org
-
-~~~
-pragma solidity ^(version);
-
-contract MyContract {
-  string value;
-  
-  constructor() public {
-    value = "myValue";
-  }
-  
-  function get() public view returns(string) {
-    return value;
-  }
-  
-  function set(string _value) public {
-    value = _value;
-  }
-}
-
-~~~
-
 --------------------------------------------------------
 
 **Projects**:
 
 [Amazon Dupe](https://sauceuke.github.io/puny/) - simple frontend Amazon dupe
 
-- 💞️ I’m looking to build responsive webpages (primarily) & eventually become a front end/full stack software engineer. 
+- 💞️ I’m looking to build responsive webpages (primarily) & eventually become a front end web dev. 
+
 - 📫 How to reach me moore.data.analyst@gmail.com
 
 <!---
