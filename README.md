@@ -8,8 +8,6 @@
 
 specializing in front-end using: **HTML/CSS** , **JavaScript** , **TypeScript**
 
-passionate about building 3D webpages using: **three.js** , **webGL** & **Blender**
-
 --------------------------------------------------------
 
 Learning frontend frameworks: **Angular** , **React** , **Vue**
